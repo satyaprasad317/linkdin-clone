@@ -1,0 +1,15 @@
+.HeaderOption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+.HeaderOption_Icon {
+  height: 24px;
+  width: 24px;
+}
+
+.HeaderOption_title {
+  font-size: 10px;
+}
